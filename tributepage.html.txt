@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>A. P. J. Abdul Kalam</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+</head>
+
+<body>
+
+    <section id="heading">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <img src="C:\Users\ASUS\Documents\abdul.jpg" alt="kalam sir image" width="480px" height="300px">
+                </div>
+                <div class="col-md">
+                    <p class="promo-title text-center"> A. P. J. Abdul Kalam</p>
+                    <p>Great Indian Scientist and politician who played a leading role in
+                        the development of India's missile and nuclear weapons programs.</p>
+                    <div class="text-center">
+                        <a href="#more" class="button">READ MORE</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section id="life">
+        <div class="container" id="more">
+            <h3 class="title text-center font-weight-bold">Early life and education</h3>
+            <ul class="py-4">
+                <li> &#10020 Avul Pakir Jainulabdeen Abdul Kalam was born on 15 October 1931, to a Tamil Muslim family
+                    in the
+                    pilgrimage centre of Rameswaram on Pamban Island, then in the Madras Presidency and now in the State
+                    of Tamil Nadu. His father,Jainulabdeen Marakayar was a boat owner and imam of a local mosque; his
+                    mother Ashiamma was a housewife.His father owned a ferry that took Hindu pilgrims back and forth
+                    between Rameswaram and the now uninhabited Dhanushkodi.Kalam was the youngest of four brothers and
+                    one sister in his family.</li>
+                <li> &#10020 His ancestors had been wealthy Marakayar traders and landowners, with numerous properties
+                    and
+                    large tracts of land. Marakayar are a Muslim ethnic group found in coastal Tamil Nadu and Sri Lanka
+                    who claim descent from Arab traders and local women. The family business had involved trading
+                    groceries between the mainland and the island and to and from Sri Lanka, as well as ferrying
+                    pilgrims between the mainland and Pamban.</li>
+                <li> &#10020 In his school years, Kalam had average grades but was described as a bright and hardworking
+                    student who had a strong desire to learn. He spent hours on his studies, especially mathematics.
+                    After completing his education at the Schwartz Higher Secondary School, Ramanathapuram, Kalam went
+                    on to attend Saint Joseph's College, Tiruchirappalli, then affiliated with the University of Madras,
+                    from where he graduated in physics in 1954.He moved to Madras in 1955 to study aerospace engineering
+                    in Madras Institute of Technology. </li>
+                <li> &#10020 While Kalam was working on a senior class project, the Dean was dissatisfied with his lack
+                    of
+                    progress and threatened to revoke his scholarship unless the project was finished within the next
+                    three days. Kalam met the deadline, impressing the Dean, who later said to him, "I was putting you
+                    under stress and asking you to meet a difficult deadline."He narrowly missed achieving his
+                    dream of becoming a fighter pilot, as he placed ninth in qualifiers, and only eight positions were
+                    available in the IAF. </li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="life">
+        <div class="container">
+            <h3 class="title text-center font-weight-bold">Career as a scientist</h3>
+
+            <ul class="py-4">
+                <li> &#10020 After graduating from the Madras Institute of Technology in 1960, Kalam joined the
+                    Aeronautical
+                    Development Establishment of the Defence Research and Development Organisation (by Press Information
+                    Bureau, Government of India) as a scientist after becoming a member of the Defence Research &
+                    Development Service (DRDS).</li>
+                <li> &#10020 He started his career by designing a small hovercraft, but remained unconvinced by his
+                    choice of
+                    a job at DRDO.[26] Kalam was also part of the INCOSPAR committee working under Vikram Sarabhai, the
+                    renowned space scientist</li>
+                <li> &#10020 In 1969, Kalam was transferred to the Indian Space Research Organisation (ISRO) where he
+                    was the
+                project director of India's first Satellite Launch Vehicle (SLV-III) which successfully deployed the
+                    Rohini satellite in near-earth orbit in July 1980; Kalam had first started work on an expandable
+                    rocket project independently at DRDO in 1965.In 1969, Kalam received the government's approval
+                    and expanded the programme to include more engineers</li>
+            </ul>
+        </div>
+    </section>
+
+
+
+    <section id="life">
+        <div class="container ">
+            <h3 class="title text-center font-weight-bold">Presidency</h3>
+
+            <ul class="py-4">
+                <li> &#10020 Kalam served as the 11th president of India, succeeding K. R. Narayanan. He won the 2002
+                    presidential election with an electoral vote of 922,884, surpassing the 107,366 votes won by Lakshmi
+                    Sahgal. His term lasted from 25 July 2002, to 25 July 2007 </li>
+                <li> &#10020 On 10 June 2002, the National Democratic Alliance (NDA) which was in power at the time,
+                    expressed
+                    that they would nominate Kalam for the post of President,and both the Samajwadi Party and
+                    the Nationalist Congress Party backed his candidacy.</li>
+                <li> &#10020 Nearing the expiry of the term of the 12th President Pratibha Patil on 24 July 2012, media
+                    reports
+                    in April claimed that Kalam was likely to be nominated for his second term.After the
+                    reports, social networking sites witnessed a number of people supporting his candidature.
+                    The BJP potentially backed his nomination[failed verification], saying that the party would lend
+                    their support if the Trinamool Congress, Samajwadi Party and Indian National Congress proposed him
+                    for the 2012 presidential election.</li>
+                <li> &#10020 A month ahead of the election, Mulayam Singh Yadav and Mamata Banerjee also expressed their
+                    support for Kalam.Days afterwards, Mulayam Singh Yadav backed out, leaving Mamata Banerjee as
+                    the solitary supporter.On 18 June 2012, Kalam declined to contest the 2012 presidential poll.
+                </li>
+
+            </ul>
+
+        </div>
+    </section>
+
+    <section id="life">
+        <div class="container">
+            <h3 class="title text-center font-weight-bold">Personal life</h3>
+
+            <ul class="py-4">
+                <li> &#10020 Kalam was the youngest of five siblings, the eldest of whom was a sister, Asim Zohra
+                    (d.1997),
+                    followed by three elder brothers: Mohammed Muthu Meera Lebbai Maraikayar (5 November 1916 - 7 March
+                    2021), Mustafa Kalam (d.1999) and Kasim Mohammed (d.1995).He was extremely close
+                    to his elder siblings and their extended families throughout his life, and would regularly send
+                    small sums of money to his older relations, himself remaining a lifelong bachelor</li>
+                <li> &#10020 Kalam was noted for his integrity and his simple lifestyle.He never owned a television,
+                    and was in the habit of rising at 6:30 or 7 a.m. and sleeping by 2 a.m.His few personal
+                    possessions included his books, his veena, some articles of clothing, a CD player and a laptop; at
+                    his death, he left no will, and his possessions went to his eldest brother, who survived him</li>
+            </ul>
+
+        </div>
+    </section>
+
+    <section id="life">
+        <div class="container">
+            <h3 class="title text-center font-weight-bold">Contributions</h3>
+
+            <ul class="py-4">
+                <li> &#10020 He was a pioneer in fiberglass technology and led a young team to initiate this effort in
+                    ISRO
+                    from design, development leading to the production of composites rocket motor cases.</li>
+                <li> &#10020 He made a significant contribution as Project Director to develop India's first indigenous
+                    Satellite Launch Vehicle (SLV-3) which successfully injected the Rohini satellite into Near-Earth
+                    Orbit in July 1980 and made India an exclusive member of Space Club.</li>
+                <li> &#10020 He led to the weaponization of strategic missile systems and the Pokhran-II nuclear tests
+                    in
+                    collaboration with the Department of Atomic Energy, which made India a nuclear weapon State.</li>
+                <li> &#10020 In 1998, he put forward a countrywide plan called Technology Vision 2020, which he
+                    described as a
+                    road map for transforming India from a less-developed to a developed society in 20 years.</li>
+                <li> &#10020 APJ Abdul Kalam in collaboratation with cardiologist B. Soma Raju designed a cost-effective
+                    coronary stent known as ‘Kalam-Raju-Stent’ for coronary heart disease which made healthcare
+                    accessible to all.</li>
+                <li> &#10020 He had been associated with avionics. He also became the first Indian Head of State to fly
+                    a
+                    fighter plane. His first aeronautical project led him to designing India’s first indigenous
+                    hovercraft ''Nandi''.
+                </li>
+            </ul>
+
+        </div>
+    </section>
+
+    <section id="life">
+        <div class="container">
+            <h3 class="title text-center font-weight-bold">Death</h3>
+
+            <ul class="py-4">
+                <li> &#10020 On 27 July 2015, Kalam travelled to Shillong to deliver a lecture on "Creating a Livable
+                    Planet
+                    Earth" at the Indian Institute of Management Shillong. While climbing a flight of stairs, he
+                    experienced some discomfort, but was able to enter the auditorium after a brief rest</li>
+                <li> &#10020 He was rushed to the nearby Bethany Hospital in a critical condition; upon arrival, he
+                    lacked a
+                    pulse or any other signs of life.[85] Despite being placed in the intensive care unit, Kalam was
+                    confirmed dead of a sudden cardiac arrest at 7:45 p.m. IST. His last words, to his aide
+                    Srijan Pal Singh, were reportedly: "Funny guy! Are you doing well?"</li>
+            </ul>
+
+        </div>
+    </section>
+
+    <section id="life">
+        <div class="container">
+            <h3 class="title text-center font-weight-bold">Awards</h3>
+
+            <div class="col-md-12 py-4 table-responsive">
+                <table class="table table-bordered">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th scope="col">YEAR</th>
+                            <th scope="col">Name of award or honour</th>
+                            <th scope="col">Awarding Organisation</th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">2014</th>
+                            <td>Honorary professor</td>
+                            <td>Beijing University,China</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">2014</th>
+                            <td>Doctor of Science</td>
+                            <td>Edinburgh University,UK</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">2013</th>
+                            <td>Von Braun Award</td>
+                            <td>National Space Society</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">2011</th>
+                            <td>IEEE Honorary Membership</td>
+                            <td>IEEE</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">2010</th>
+                            <td>Doctor of Engineering</td>
+                            <td>University of Waterloo</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">2009</th>
+                            <td>International von Kármán Wings Award</td>
+                            <td>California Institute of Technology,USA</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">2000</th>
+                            <td>Ramanujan Award</td>
+                            <td>Alwars Research Centre,Chennai</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">1997</th>
+                            <td>Indira Gandhi Award for National Integration</td>
+                            <td>Indian National Congress</td>
+                            </tr>
+                        <tr>
+                            <th scope="row">1997</th>
+                            <td>Bharat Ratna</td>
+                            <td>President of India</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">1990</th>
+                            <td>Padma Vibhushan</td>
+                            <td>Government of India</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">1981</th>
+                            <td>Padma Bhushan</td>
+                            <td>Government of India</td>
+
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+    </section>
+
+</body>
+
+</html>
